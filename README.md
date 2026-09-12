@@ -92,10 +92,3 @@ Location: Bangladesh
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Yeamin-Sheikh/Yeamin-Sheikh/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
----
-
-### Connect
-
-<a href="https://linkedin.com/in/yeamin-sheikh">
-  <img src="https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" />
-</a>
