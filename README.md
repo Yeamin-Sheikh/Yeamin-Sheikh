@@ -1,21 +1,66 @@
-<h1 align="center">Hi 👋, I'm Md. Yeamin Sheikh</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+# Yeamin Sheikh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeamin-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="yeamin-sheikh" /> </p>
+Automation architect and AI systems engineer based in Bangladesh. Creator of **Pro Gen Factory**, producing documentary content on industrial manufacturing and modern production pipelines.
 
-- 🌱 I’m currently learning **Bootstrap, C#**
+I design end-to-end automation pipelines, browser automation systems, and media workflows that connect generative AI models to production video rendering engines.
 
-- 💬 Ask me about **HTML, CSS, Python**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yeamin-sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeamin-sheikh" height="30" width="40" /></a>
-<a href="https://fb.com/is.yeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="is.yeamin" height="30" width="40" /></a>
+### Tech stack
+
+#### Core languages and runtimes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+#### Media and processing
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+#### Automation and web
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Manifest%20V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+### Featured work
+
+- [dola-extension](https://github.com/Yeamin-Sheikh/dola-extension)
+  A Manifest V3 Chrome extension for watermark removal and batch video downloading on Dola AI.
+
+- [yeaprompts](https://github.com/Yeamin-Sheikh/yeaprompts)
+  An offline prompt library with instant search, dark and light themes, and SQLite backends containing 279 curated AI video prompts.
+
+- [yt-adjust](https://github.com/Yeamin-Sheikh/yt-adjust)
+  A lightweight YouTube modifier extension adding volume gestures, audio boost, picture-in-picture, and custom controls.
+
+- [Audify](https://github.com/Yeamin-Sheikh/Audify)
+  A background Windows system tray daemon that reads clipboard text aloud using Microsoft Edge Neural TTS voices.
+
+- [windows-cloud-sandbox](https://github.com/Yeamin-Sheikh/windows-cloud-sandbox)
+  An on-demand GitHub Actions workflow that launches an ephemeral cloud Windows workstation accessible via RDP and Tailscale VPN.
+
+- [csharp-fundamentals](https://github.com/Yeamin-Sheikh/csharp-fundamentals)
+  A clean collection of introductory C# console projects covering terminal I/O and conditional evaluations.
+
+---
+
+### GitHub statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeamin-Sheikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yeamin's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeamin-Sheikh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeamin-sheikh&show_icons=true&locale=en&layout=compact" alt="yeamin-sheikh" /></p>
+### Connect
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeamin-sheikh&" alt="yeamin-sheikh" /></p>
+[![YouTube](https://img.shields.io/badge/Pro%20Gen%20Factory-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@progenfactory)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeamin-sheikh)
