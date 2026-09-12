@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Yeamin Sheikh - Systems &amp; Automation Developer" width="100%" />
+  <img src="assets/header.svg" alt="Yeamin Sheikh - Developer" width="100%" />
 </div>
 
 ```bash
-yeamin@workstation:~$ fastfetch --config profile
+yeamin@workstation:~$ fastfetch
 OS: Windows 11 Pro x86_64
-Role: Systems & Automation Developer
-Stack: Python, TypeScript, C#, PowerShell
-Tooling: FFmpeg, Playwright, Chrome Extensions (MV3), .NET
+Host: HP ZBook 15u G6
+Terminal: PowerShell 7
+Core: Python, TypeScript, C#, PowerShell
+Tooling: FFmpeg, Playwright, Chrome Extensions, .NET
 Location: Bangladesh
 ```
 
@@ -19,7 +20,7 @@ Location: Bangladesh
       <a href="https://github.com/Yeamin-Sheikh/dola-extension">
         <b>dola-extension</b>
       </a>
-      <p>Chrome extension that strips watermarks and handles batch downloads on the Dola AI video platform.</p>
+      <p>Removes watermarks and batch downloads videos from Dola AI.</p>
       <img src="assets/badges/javascript.svg" alt="JavaScript" />
       <img src="assets/badges/manifestv3.svg" alt="Manifest V3" />
     </td>
@@ -27,7 +28,7 @@ Location: Bangladesh
       <a href="https://github.com/Yeamin-Sheikh/yeaprompts">
         <b>yeaprompts</b>
       </a>
-      <p>Offline prompt database and web interface storing 279 tested video prompts with instant search and SQLite storage.</p>
+      <p>Offline library with 279 video prompt formulas, instant search, and SQLite storage.</p>
       <img src="assets/badges/python.svg" alt="Python" />
       <img src="assets/badges/sqlite.svg" alt="SQLite" />
     </td>
@@ -37,7 +38,7 @@ Location: Bangladesh
       <a href="https://github.com/Yeamin-Sheikh/yt-adjust">
         <b>yt-adjust</b>
       </a>
-      <p>Chrome extension adding mouse-wheel volume controls, audio boost, picture-in-picture, and automatic sponsor skipping.</p>
+      <p>Mouse-wheel volume gestures, volume boost, picture-in-picture, and sponsor skip for YouTube.</p>
       <img src="assets/badges/typescript.svg" alt="TypeScript" />
       <img src="assets/badges/extension.svg" alt="Extension" />
     </td>
@@ -45,7 +46,7 @@ Location: Bangladesh
       <a href="https://github.com/Yeamin-Sheikh/Audify">
         <b>Audify</b>
       </a>
-      <p>Windows system tray daemon that reads clipboard text aloud using Microsoft Edge neural speech synthesis voices.</p>
+      <p>Reads clipboard text out loud on copy using Edge TTS voices. Runs in the system tray with a custom pronunciation dictionary.</p>
       <img src="assets/badges/python.svg" alt="Python" />
       <img src="assets/badges/windows.svg" alt="Windows" />
     </td>
@@ -55,7 +56,7 @@ Location: Bangladesh
       <a href="https://github.com/Yeamin-Sheikh/windows-cloud-sandbox">
         <b>windows-cloud-sandbox</b>
       </a>
-      <p>Automated GitHub Actions workflow that provisions an ephemeral cloud Windows workstation accessible via RDP and Tailscale.</p>
+      <p>Spins up a temporary Windows runner on GitHub Actions, connects to Tailscale, and keeps RDP open for remote testing.</p>
       <img src="assets/badges/githubactions.svg" alt="GitHub Actions" />
       <img src="assets/badges/tailscale.svg" alt="Tailscale" />
     </td>
@@ -63,7 +64,7 @@ Location: Bangladesh
       <a href="https://github.com/Yeamin-Sheikh/csharp-fundamentals">
         <b>csharp-fundamentals</b>
       </a>
-      <p>Curated collection of introductory C# console projects covering terminal I/O, error handling, and basic algorithms.</p>
+      <p>Four standalone console programs covering terminal input, formatting, and numeric evaluations.</p>
       <img src="assets/badges/csharp.svg" alt="C#" />
       <img src="assets/badges/dotnet.svg" alt=".NET 8" />
     </td>
