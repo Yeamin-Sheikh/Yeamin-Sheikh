@@ -20,16 +20,16 @@ Location: Bangladesh
         <b>dola-extension</b>
       </a>
       <p>Chrome extension that strips watermarks and handles batch downloads on the Dola AI video platform.</p>
-      <img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Manifest_V3-18181b?style=flat-square&logo=googlechrome&logoColor=4285f4" alt="Manifest V3" />
+      <img src="assets/badges/javascript.svg" alt="JavaScript" />
+      <img src="assets/badges/manifestv3.svg" alt="Manifest V3" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Yeamin-Sheikh/yeaprompts">
         <b>yeaprompts</b>
       </a>
       <p>Offline prompt database and web interface storing 279 tested video prompts with instant search and SQLite storage.</p>
-      <img src="https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=38bdf8" alt="Python" />
-      <img src="https://img.shields.io/badge/SQLite-18181b?style=flat-square&logo=sqlite&logoColor=003b57" alt="SQLite" />
+      <img src="assets/badges/python.svg" alt="Python" />
+      <img src="assets/badges/sqlite.svg" alt="SQLite" />
     </td>
   </tr>
   <tr>
@@ -38,16 +38,16 @@ Location: Bangladesh
         <b>yt-adjust</b>
       </a>
       <p>Chrome extension adding mouse-wheel volume controls, audio boost, picture-in-picture, and automatic sponsor skipping.</p>
-      <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Extension-18181b?style=flat-square&logo=googlechrome&logoColor=4285f4" alt="Extension" />
+      <img src="assets/badges/typescript.svg" alt="TypeScript" />
+      <img src="assets/badges/extension.svg" alt="Extension" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Yeamin-Sheikh/Audify">
         <b>Audify</b>
       </a>
       <p>Windows system tray daemon that reads clipboard text aloud using Microsoft Edge neural speech synthesis voices.</p>
-      <img src="https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=38bdf8" alt="Python" />
-      <img src="https://img.shields.io/badge/Windows-18181b?style=flat-square&logo=windows&logoColor=0078d4" alt="Windows" />
+      <img src="assets/badges/python.svg" alt="Python" />
+      <img src="assets/badges/windows.svg" alt="Windows" />
     </td>
   </tr>
   <tr>
@@ -56,16 +56,16 @@ Location: Bangladesh
         <b>windows-cloud-sandbox</b>
       </a>
       <p>Automated GitHub Actions workflow that provisions an ephemeral cloud Windows workstation accessible via RDP and Tailscale.</p>
-      <img src="https://img.shields.io/badge/GitHub_Actions-18181b?style=flat-square&logo=githubactions&logoColor=2088ff" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Tailscale-18181b?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
+      <img src="assets/badges/githubactions.svg" alt="GitHub Actions" />
+      <img src="assets/badges/tailscale.svg" alt="Tailscale" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Yeamin-Sheikh/csharp-fundamentals">
         <b>csharp-fundamentals</b>
       </a>
       <p>Curated collection of introductory C# console projects covering terminal I/O, error handling, and basic algorithms.</p>
-      <img src="https://img.shields.io/badge/C%23-18181b?style=flat-square&logo=csharp&logoColor=239120" alt="C#" />
-      <img src="https://img.shields.io/badge/.NET_8-18181b?style=flat-square&logo=dotnet&logoColor=512bd4" alt=".NET 8" />
+      <img src="assets/badges/csharp.svg" alt="C#" />
+      <img src="assets/badges/dotnet.svg" alt=".NET 8" />
     </td>
   </tr>
 </table>
@@ -73,15 +73,15 @@ Location: Bangladesh
 ### Engineering stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=38bdf8" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-18181b?style=flat-square&logo=csharp&logoColor=239120" alt="C#" />
-  <img src="https://img.shields.io/badge/PowerShell-18181b?style=flat-square&logo=powershell&logoColor=5391fe" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FFmpeg-18181b?style=flat-square&logo=ffmpeg&logoColor=007808" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/Playwright-18181b?style=flat-square&logo=playwright&logoColor=2ead33" alt="Playwright" />
-  <img src="https://img.shields.io/badge/yt--dlp-18181b?style=flat-square&logo=youtube&logoColor=ff0000" alt="yt-dlp" />
+  <img src="assets/badges/python.svg" alt="Python" />
+  <img src="assets/badges/typescript.svg" alt="TypeScript" />
+  <img src="assets/badges/javascript.svg" alt="JavaScript" />
+  <img src="assets/badges/csharp.svg" alt="C#" />
+  <img src="assets/badges/powershell.svg" alt="PowerShell" />
+  <img src="assets/badges/nodejs.svg" alt="Node.js" />
+  <img src="assets/badges/ffmpeg.svg" alt="FFmpeg" />
+  <img src="assets/badges/playwright.svg" alt="Playwright" />
+  <img src="assets/badges/ytdlp.svg" alt="yt-dlp" />
 </p>
 
 ### Contribution activity
@@ -91,4 +91,3 @@ Location: Bangladesh
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yeamin-Sheikh/Yeamin-Sheikh/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Yeamin-Sheikh/Yeamin-Sheikh/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
-
